@@ -1,52 +1,43 @@
-# AimWare Downloads
+# Unbranded Loaders
 
-Welcome to the **Downloads** section of my GitHub repository! Here, you can find all the tools and resources I have created. Feel free to explore and download what you need.
+Welcome to the **Unbranded Loaders** repository! Below are the tools and utilities available for download.
 
----
+## MW3/BO6
 
-## Available Downloads
+- [MW3 Silent Chair](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3_SILENT_CHAIR.exe)
+- [BO6 Silent Chair](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/SILENT_UNBRBANDED.exe)
+- [MW3/BO6 Loud Chair](https://gofile.io/d/zm0kjl)
+- [BO6 Unlocker](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/t10-UA.rar)
+- [MW3 Inferno Chair](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.BO6_INFERNO.exe)
+- [BO6 Inferno Chair](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/INFERNO_BO6.exe)
+- [MW3/BO6 External Chair LDV2](https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/LD1027.exe)
+- [MW3/BO6 External Chair Progress](https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/PG1027.exe)
+- [WZ4 AFK Bot](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/AFKBOT_UNBRANDED.rar)
+- [HWID Protector](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3_HWID_PROTECTOR.exe)
 
-### [Tool 1](https://github.com/your-username/tool-1/releases)
-A powerful tool for managing your tasks.
+## FIVEM
 
-- **Description**: This tool helps streamline your daily tasks with ease.
-- **Features**:
-  - Task management
-  - Customizable workflows
-  - User-friendly interface
+- [FIVEM External Chair](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FIVEM_EXTERNAL_CHAIR.exe)
 
-### [Tool 2](https://github.com/your-username/tool-2/releases)
-An efficient key generator for Discord bots.
+## FORTNITE
 
-- **Description**: Generate secure and efficient keys for your Discord bots.
-- **Features**:
-  - Random key generation
-  - Secure storage
-  - Easy integration
+- [Fortnite External Chair](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE_UNBRANDED.rar)
 
-### [Resource Pack](https://github.com/your-username/resource-pack/releases)
-A collection of useful scripts and resources.
+## VALORANT
 
-- **Description**: A comprehensive pack of tools and resources to help you get started quickly.
-- **Features**:
-  - Multiple pre-built scripts
-  - Documentation included
-  - Ready to use
+- [Valorant External Chair](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.exe)
 
----
+## OTHERS
 
-## How to Use
+- [PC Optimizer V1](https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup_2.exe)
+- [HWID Permanent Woofer](https://verse-solutions.gitbook.io/verse-permanent)
 
-1. Navigate to the [Releases](https://github.com/your-username/releases) section of this repository.
-2. Choose the tool or resource you want to download.
-3. Click the **Download** button to get the latest version.
+  _Not opening? [Click here](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.403-windows-x86-installer)_
 
 ---
 
-## Support
+### Notes
 
-If you encounter any issues or have suggestions, please open an issue on the [GitHub Issues](https://github.com/your-username/issues) page.
+- Please ensure that you download the appropriate files for your system and usage.
+- For inquiries, contact the repository owner directly.
 
----
-
-&copy; 2024 Cobra. Check out more on [my GitHub profile](https://github.com/your-username).
